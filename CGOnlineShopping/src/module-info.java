@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author richeriy
+ *
+ */
+module cgOnlineShopping {
+}
